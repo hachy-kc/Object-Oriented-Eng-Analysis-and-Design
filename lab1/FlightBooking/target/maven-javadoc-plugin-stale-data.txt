@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/lphew01550/Documents/coe528/FlightBooking/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/lphew01550/Documents/coe528/FlightBooking/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'FlightBooking 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'FlightBooking 1.0-SNAPSHOT API'
+coe528.lab1
+C:\Users\lphew01550\Documents\coe528\FlightBooking\src\main\java = 1706371523472
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\allclasses-index.html = 1706371551878
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\allpackages-index.html = 1706371551883
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\copy.svg = 1706371551938
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\element-list = 1706371551809
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\help-doc.html = 1706371551924
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\index-all.html = 1706371551911
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\index.html = 1706371551917
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\member-search-index.js = 1706371551893
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\module-search-index.js = 1706371551887
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\overview-tree.html = 1706371551859
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\package-search-index.js = 1706371551889
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\script.js = 1706371551934
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\search-page.js = 1706371551946
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\search.html = 1706371551915
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\search.js = 1706371551943
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\stylesheet.css = 1706371551930
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\tag-search-index.js = 1706371551895
+C:\Users\lphew01550\Documents\coe528\FlightBooking\target\site\apidocs\type-search-index.js = 1706371551891
